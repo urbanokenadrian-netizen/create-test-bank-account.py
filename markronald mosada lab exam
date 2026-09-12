@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University of Dagupan - Course Module</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .page {
+            background: white;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 35px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.15);
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #333;
+            padding-bottom: 15px;
+        }
+
+        .header h1 {
+            font-size: 22px;
+            margin: 5px;
+        }
+
+        .header p {
+            margin: 5px;
+            font-size: 14px;
+        }
+
+        h2 {
+            font-size: 18px;
+            margin-top: 25px;
+        }
+
+        h3 {
+            font-size: 16px;
+            margin-top: 20px;
+        }
+
+        p, li {
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .activity {
+            background: #f7f7f7;
+            padding: 15px;
+            margin-top: 15px;
+            border-left: 4px solid #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        th, td {
+            border: 1px solid #777;
+            padding: 10px;
+            text-align: left;
+            font-size: 13px;
+        }
+
+        th {
+            background: #eaeaea;
+        }
+
+        .footer {
+            margin-top: 30px;
+            border-top: 1px solid #333;
+            padding-top: 10px;
+            text-align: center;
+            font-size: 12px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="page">
+
+        <div class="header">
+            <h1>UNIVERSITY OF DAGUPAN</h1>
+            <p>Course Module</p>
+        </div>
+
+        <h2>Course Information</h2>
+
+        <p>
+            This module contains the activities and lessons that students
+            need to complete. The goal is to help students understand the
+            topic and apply what they have learned.
+        </p>
+
+        <h2>Learning Objectives</h2>
+
+        <ul>
+            <li>Understand the main ideas discussed in the lesson.</li>
+            <li>Develop critical thinking skills.</li>
+            <li>Participate actively in the activities.</li>
+            <li>Apply the lesson to real-life situations.</li>
+            <li>Complete the required tasks and assessments.</li>
+        </ul>
+
+        <div class="activity">
+            <h3>Activity 1</h3>
+
+            <p>
+                Read the lesson carefully and answer the questions based
+                on your own understanding.
+            </p>
+
+            <ol>
+                <li>What did you learn from the lesson?</li>
+                <li>Why is the topic important?</li>
+                <li>How can you apply it in your daily life?</li>
+            </ol>
+        </div>
+
+        <div class="activity">
+            <h3>Activity 2</h3>
+
+            <p>
+                Write your own thoughts about the topic. Keep your answer
+                simple, honest, and based on your personal understanding.
+            </p>
+
+            <p>
+                <strong>My Answer:</strong><br>
+                I learned that the topic is important because it helps
+                students understand things better. I can also use what I
+                learned in my everyday life.
+            </p>
+        </div>
+
+        <div class="activity">
+            <h3>Activity 3</h3>
+
+            <p>
+                Check the information first before accepting or sharing it.
+                Make sure that the information comes from a reliable source.
+            </p>
+
+            <ol>
+                <li>Check the source.</li>
+                <li>Check if the information is true.</li>
+                <li>Think before sharing it with others.</li>
+            </ol>
+        </div>
+
+        <h2>Assessment</h2>
+
+        <table>
+            <tr>
+                <th>Activity</th>
+                <th>Description</th>
+                <th>Score</th>
+            </tr>
+
+            <tr>
+                <td>Activity 1</td>
+                <td>Understanding the lesson</td>
+                <td>10</td>
+            </tr>
+
+            <tr>
+                <td>Activity 2</td>
+                <td>Personal reflection</td>
+                <td>10</td>
+            </tr>
+
+            <tr>
+                <td>Activity 3</td>
+                <td>Checking and analyzing information</td>
+                <td>10</td>
+            </tr>
+        </table>
+
+        <h2>My Reflection</h2>
+
+        <p>
+            For me, this module is helpful because it gives me a better
+            understanding of the lesson. I learned new things and realized
+            that I can use them not only in school but also in real life.
+            I will try my best to complete the activities and improve my
+            understanding of the subject.
+        </p>
+
+        <div class="footer">
+            University of Dagupan | Course Module
+        </div>
+
+    </div>
+
+</body>
+</html>
